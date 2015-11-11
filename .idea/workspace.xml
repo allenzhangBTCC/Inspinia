@@ -19,25 +19,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-awesome/fonts/fontawesome-webfont.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-awesome/fonts/fontawesome-webfont.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/congruent_pentagon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile-skin-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile-skin-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile-skin-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/otis_redding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/shattered.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/patterns/triangular.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/.keep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/attributes_test.zip" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/adm-zip/test/assets/fast.zip" />
@@ -218,35 +199,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/toposort/graph.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/utf-8-validate/build/Release/obj.target/validation/src/validation.o" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/utf-8-validate/build/Release/validation.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/congruent_pentagon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/header-profile-skin-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/header-profile-skin-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/header-profile-skin-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/header-profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/otis_redding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/shattered.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/patterns/triangular.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/myInspinia.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.tmp/serve/app/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.tmp/serve/app/vendor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.tmp/serve/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README 2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_alll_dependencies.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/myInspinia_node_modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/Chart.js/.bower.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/Chart.js/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/Chart.js/Chart.js" />
@@ -448,8 +402,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/bower.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-idle/angular-idle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-idle/angular-idle.map" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/.bower.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/angular-mocks.js" />
@@ -798,6 +750,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/metisMenu/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/metisMenu/src/metisMenu.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/metisMenu/src/metisMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ng-idle/angular-idle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/ng-idle/angular-idle.map" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/oclazyload/.bower.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/oclazyload/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/oclazyload/LICENSE.md" />
@@ -816,24 +770,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/oclazyload/dist/ocLazyLoad.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/oclazyload/dist/ocLazyLoad.require.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/oclazyload/dist/ocLazyLoad.require.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/scripts/app-fdd9197b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/scripts/vendor-632e6ff5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/styles/app-dea96a0a.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/styles/vendor-471e35b7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e/main.po.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e/main.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/e2e-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/inject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/proxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/unit-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/watch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/browser-sync" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/cleancss" />
@@ -7421,17 +7357,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/has-ansi/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/has-ansi/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/has-ansi/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/interpret/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/interpret/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/interpret/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/interpret/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/interpret/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/pretty-hrtime/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/pretty-hrtime/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/pretty-hrtime/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/pretty-hrtime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/pretty-hrtime/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/pretty-hrtime/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/strip-ansi/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/strip-ansi/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/strip-ansi/readme.md" />
@@ -7712,6 +7637,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ini/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ini/ini.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ini/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/interpret/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/interpret/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/interpret/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/interpret/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/interpret/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invert-kv/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invert-kv/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invert-kv/readme.md" />
@@ -11135,6 +11065,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-bytes/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-bytes/pretty-bytes.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-bytes/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pretty-hrtime/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/.travis.yml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/license.md" />
@@ -14154,60 +14090,44 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/locales/pt.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/locales/zh.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/inspinia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/js/chartJs/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/js/chartJs/angles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/js/main.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/js/positionShort.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/badgets_labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/base.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/chat.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/custom.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/elements.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/landing.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/md-skin.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/metismenu.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/navigation.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/pages.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/rtl.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/sidebar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/skins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/spinners.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/theme-config.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/top_navigation.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/typography.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/accountBalances.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/accountLosers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/accountTransfer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/accountTransfers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/accountWinners.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/accounts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/dailyAccountTransfers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/dailyAccountsActive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/dailyAccountsCreated.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/dailyFees.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/dailyTickers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/minor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/positionsLong.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/nav/positionsShort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/vendor.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common/content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common/ibox_tools.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/common/topnavbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README 2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/congruent_pentagon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile-skin-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile-skin-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile-skin-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/header-profile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/otis_redding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/shattered.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/images/patterns/triangular.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/scripts/app-fdd9197b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/scripts/vendor-632e6ff5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/app-dea96a0a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/vendor-471e35b7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/js/chartJs/Chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/js/chartJs/angles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/js/positionShort.controller.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.js" afterPath="$PROJECT_DIR$/src/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/js/main.controller.js" afterPath="$PROJECT_DIR$/src/app/js/main.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/nav/main.html" afterPath="$PROJECT_DIR$/src/app/nav/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/nav/positionsShort.html" afterPath="$PROJECT_DIR$/src/app/nav/positionsShort.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/common/navigation.html" afterPath="$PROJECT_DIR$/src/components/common/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <ignored path="myInspinia.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14235,7 +14155,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="190" />
+    <option name="x" value="209" />
     <option name="y" value="50" />
     <option name="width" value="988" />
     <option name="height" value="679" />
@@ -14292,7 +14212,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pro-adminWeb" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -14305,32 +14230,44 @@
       <option name="number" value="Default" />
       <updated>1447237685879</updated>
     </task>
+    <task id="LOCAL-00001" summary="my inspinia">
+      <created>1447241019740</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447241019740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="50" width="988" height="679" extended-state="0" />
+    <frame x="209" y="50" width="988" height="679" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2761117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29371816" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my inspinia" />
+    <option name="LAST_COMMIT_MESSAGE" value="my inspinia" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

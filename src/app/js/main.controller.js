@@ -7,23 +7,44 @@ angular.module('inspinia')
         this.helloText = 'Welcome in INSPINIA Gulp SeedProject';
         this.descriptionText = 'It is an application skeleton for a typical AngularJS web app. You can use it to quickly bootstrap your angular webapp projects.';
 
+    $http.get('http://localhost:3000/api/daily/daily/fees').
+      success(function(data) {
 
-    $http.get('http://localhost:3000/api/positions/short').
-    success(function(data) {
-      alert("hehe");
-      var index=0;
-      $scope.todos=data;
-      //$scope.shortPosition = {
-      //  accountData: data[data.length-1].account,
-      //  emailData: data[data.length-1].email,
-      //  totalShortPositionData: data[data.length-1].total_short_position,
-      //  date: new Date()
-      //
-      //};
+        var weekExchangeFees = 0;
+        var weekOvernightFees = 0;
+        var weekTotal = 0;
+        for(var i=data.length-1;i>data.length-7;i--){
+          weekExchangeFees += data[i].exchange_fee;
+          weekOvernightFees += data[i].overnight_fee;
+        }
 
-    });
+        $scope.activeAccounts = {
+          todayTotalExchangeFee: data[data.length-1].exchange_fee,
+          yesterdayTotalExchangeFee: data[data.length-2].exchange_fee,
+          weekTotal: weekTotal,
+          date: new Date()
 
+        };
 
+      });
+
+    $http.get('http://localhost:3000/api/daily/accounts/active').
+      success(function(data) {
+
+        var weekTotal = 0;
+        for(var i=data.length-1;i>data.length-7;i--){
+          weekTotal += data[i].active_accounts;
+        }
+
+        $scope.activeAccounts = {
+          todayTotal: data[data.length-1].active_accounts,
+          yesterdayTotal: data[data.length-2].active_accounts,
+          weekTotal: weekTotal,
+          date: new Date()
+
+        };
+
+      });
 
     $http.get('http://localhost:3000/api/daily/accounts/created').
       success(function(data) {
@@ -47,7 +68,31 @@ angular.module('inspinia')
 
       });
 
+    $http.get('http://localhost:3000/api/accounts').
+      success(function(data) {
+        $scope.accounts = {
+          total: data[0].total_accounts,
+          newToday: data[0].new_today,
+          date: new Date()
+        };
+      });
+
+    $http.get('http://localhost:3000/api/account/transfer').
+      success(function(data) {
+        //"deposit_amount": 1743082.89,
+        //  "deposit_count": 240,
+        //  "deposit_today": 58867,
+        //  "withdrawal_amount": 540801.48,
+        //  "withdrawal_count": 89,
+        //  "withdrawal_today": 125048.76
+        console.log(data);
+        $scope.transfer = data;
+        $scope.transfer.date = new Date();
+
+      });
+
   }])
+  .controller('widgetFlotChart', widgetFlotChart)
   .controller('chartJsCtrl', chartJsCtrl)
   ;
 
@@ -311,3 +356,130 @@ function chartJsCtrl() {
  * widgetFlotChart - Data for Flot chart
  * used in Widget view
  */
+function widgetFlotChart() {
+
+
+  /**
+   * Flot chart data and options
+   */
+  var d1 = [[1262304000000, 6], [1264982400000, 3057], [1267401600000, 20434], [1270080000000, 31982], [1272672000000, 26602], [1275350400000, 27826], [1277942400000, 24302], [1280620800000, 24237], [1283299200000, 21004], [1285891200000, 12144], [1288569600000, 10577], [1291161600000, 10295]];
+  var d2 = [[1262304000000, 5], [1264982400000, 200], [1267401600000, 1605], [1270080000000, 6129], [1272672000000, 11643], [1275350400000, 19055], [1277942400000, 30062], [1280620800000, 39197], [1283299200000, 37000], [1285891200000, 27000], [1288569600000, 21000], [1291161600000, 17000]];
+
+  var flotChartData1 = [
+    { label: "Data 1", data: d1, color: '#17a084'},
+    { label: "Data 2", data: d2, color: '#127e68' }
+  ];
+
+  var flotChartOptions1 = {
+    xaxis: {
+      tickDecimals: 0
+    },
+    series: {
+      lines: {
+        show: true,
+        fill: true,
+        fillColor: {
+          colors: [{
+            opacity: 1
+          }, {
+            opacity: 1
+          }]
+        }
+      },
+      points: {
+        width: 0.1,
+        show: false
+      }
+    },
+    grid: {
+      show: false,
+      borderWidth: 0
+    },
+    legend: {
+      show: false
+    }
+  };
+
+  var flotChartData2 = [
+    { label: "Data 1", data: d1, color: '#19a0a1'}
+  ];
+
+  var flotChartOptions2 = {
+    xaxis: {
+      tickDecimals: 0
+    },
+    series: {
+      lines: {
+        show: true,
+        fill: true,
+        fillColor: {
+          colors: [{
+            opacity: 1
+          }, {
+            opacity: 1
+          }]
+        }
+      },
+      points: {
+        width: 0.1,
+        show: false
+      }
+    },
+    grid: {
+      show: false,
+      borderWidth: 0
+    },
+    legend: {
+      show: false
+    }
+  };
+
+  var flotChartData3 = [
+    { label: "Data 1", data: d1, color: '#fbbe7b'},
+    { label: "Data 2", data: d2, color: '#f8ac59' }
+  ];
+
+  var flotChartOptions3 = {
+    xaxis: {
+      tickDecimals: 0
+    },
+    series: {
+      lines: {
+        show: true,
+        fill: true,
+        fillColor: {
+          colors: [{
+            opacity: 1
+          }, {
+            opacity: 1
+          }]
+        }
+      },
+      points: {
+        width: 0.1,
+        show: false
+      }
+    },
+    grid: {
+      show: false,
+      borderWidth: 0
+    },
+    legend: {
+      show: false
+    }
+  };
+
+  /**
+   * Definition of variables
+   * Flot chart
+   */
+
+  this.flotChartData1 = flotChartData1;
+  this.flotChartOptions1 = flotChartOptions1;
+  this.flotChartData2 = flotChartData2;
+  this.flotChartOptions2 = flotChartOptions2;
+  this.flotChartData3 = flotChartData3;
+  this.flotChartOptions3 = flotChartOptions3;
+
+
+}
