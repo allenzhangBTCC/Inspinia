@@ -1,0 +1,17 @@
+{
+    "local": {
+        "mainServer": "http://localhost:7000",
+        "storageServer": "http://localhost:3010/",
+        "apiServer": "http://localhost:3010/api"
+    },
+    "staging": {
+        "mainServer": "http://staging.youths.cc",
+        "storageServer": "http://api.youths.cc/",
+        "apiServer": "http://api.youths.cc/api"
+    },
+    "production": {
+        "mainServer": "http://youths.cc",
+        "storageServer": "http://api.youths.cc/",
+        "apiServer": "http://api.youths.cc/api"
+    }
+}

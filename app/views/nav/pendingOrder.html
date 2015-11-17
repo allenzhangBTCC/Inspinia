@@ -1,0 +1,83 @@
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="text-center m-t-lg">
+
+                <h1>
+                    Positions Short
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row" ng-controller="pendingOrderCtrl">
+    <div class="col-lg-12">
+
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>Table with data </h5>
+
+                <div ibox-tools></div>
+            </div>
+            <div class="ibox-content">
+                <table datatable="ng" class="table table-striped table-bordered table-hover dataTables-example">
+                    <thead>
+                    <tr>
+                        <th>Account</th>
+                        <th>Side</th>
+                        <th>Price</th>
+                        <th>Total Short Position</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr ng-repeat="item in todos">
+                        <td>{{item.account}}</td>
+                        <td>{{item.side}}</td>
+                        <td>{{item.price}}</td>
+                        <td>{{item.leave_quantity}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<div class="row wrapper border-bottom white-bg page-heading">-->
+    <!--<div class="col-lg-10">-->
+        <!--<h2>Chartist</h2>-->
+        <!--<ol class="breadcrumb">-->
+            <!--<li>-->
+                <!--<a href="index.html">Home</a>-->
+            <!--</li>-->
+            <!--<li>-->
+                <!--<a>Graphs</a>-->
+            <!--</li>-->
+            <!--<li class="active">-->
+                <!--<strong>Chartist</strong>-->
+            <!--</li>-->
+        <!--</ol>-->
+    <!--</div>-->
+    <!--<div class="col-lg-2">-->
+
+    <!--</div>-->
+<!--</div>-->
+
+<!--//Sometimes charts and table may not work together-->
+<!--<div class="wrapper wrapper-content animated fadeInRight" ng-controller="pendingOrderChartistCtrl as chart">-->
+
+    <!--<div class="row">-->
+        <!--<div class="col-lg-12">-->
+            <!--<div class="ibox float-e-margins">-->
+                <!--<div class="ibox-title">-->
+                    <!--<h5>Stacked bar chart</h5>-->
+                <!--</div>-->
+                <!--<div class="ibox-content">-->
+                    <!--<chartist class="ct-chart ct-perfect-fourth" chartist-data="chart.stackedData" chartist-chart-options="chart.stackedOptions" chartist-chart-type="Bar"></chartist>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+
+<!--</div>-->
+
